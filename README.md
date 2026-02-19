@@ -39,8 +39,6 @@ This project demonstrates a **Sales Insight Dashboard** created using **Microsof
 - **Top 5 Customers** by revenue (Bar chart)
 - **Top 5 Products** (Bar chart)
 
-### 📸 Screenshot:
-[Dashboard Screenshot]![sales dashboard](https://github.com/user-attachments/assets/849cb528-b9ec-4c6e-88ae-d751c2541de7)
 
 ## 🔍 Insights & Findings
 
